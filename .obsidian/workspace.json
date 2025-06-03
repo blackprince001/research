@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7126c207449f1c",
+        "id": "4e8043e27a7a9c73",
         "type": "tabs",
         "children": [
           {
-            "id": "89b0f16933b3ffbf",
+            "id": "d545f6485d252607",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b0f16933b3ffbf",
+  "active": "50017f01b0c462b2",
   "lastOpenFiles": [
+    "data.db",
     "items/01JSHQ01XYRK4P6GTFHPTTETVP/pytorch2_internals.pdf"
   ]
 }
